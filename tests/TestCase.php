@@ -1,8 +1,8 @@
 <?php
 
-namespace CodeZero\UniqueTranslation\Tests;
+namespace Workup\UniqueTranslation\Tests;
 
-use CodeZero\UniqueTranslation\UniqueTranslationServiceProvider;
+use Workup\UniqueTranslation\UniqueTranslationServiceProvider;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Config;

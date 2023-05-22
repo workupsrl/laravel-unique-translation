@@ -31,18 +31,18 @@
     },
     "autoload": {
         "psr-4": {
-            "CodeZero\\UniqueTranslation\\": "src"
+            "Workup\\UniqueTranslation\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "CodeZero\\UniqueTranslation\\Tests\\": "tests"
+            "Workup\\UniqueTranslation\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "CodeZero\\UniqueTranslation\\UniqueTranslationServiceProvider"
+                "Workup\\UniqueTranslation\\UniqueTranslationServiceProvider"
             ]
         }
     },

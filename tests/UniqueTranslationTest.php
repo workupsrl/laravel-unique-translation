@@ -1,9 +1,9 @@
 <?php
 
-namespace CodeZero\UniqueTranslation\Tests;
+namespace Workup\UniqueTranslation\Tests;
 
-use CodeZero\UniqueTranslation\Tests\Stubs\Model;
-use CodeZero\UniqueTranslation\UniqueTranslationRule;
+use Workup\UniqueTranslation\Tests\Stubs\Model;
+use Workup\UniqueTranslation\UniqueTranslationRule;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Validator;
 

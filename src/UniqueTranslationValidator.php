@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeZero\UniqueTranslation;
+namespace Workup\UniqueTranslation;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Config;

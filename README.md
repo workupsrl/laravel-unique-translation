@@ -77,7 +77,7 @@ $attributes = request()->validate([
 You could also use the Rule instance:
 
 ```php
-use CodeZero\UniqueTranslation\UniqueTranslationRule;
+use Workup\UniqueTranslation\UniqueTranslationRule;
 
 $attributes = request()->validate([
     'slug' => ['required', UniqueTranslationRule::for('posts')],
